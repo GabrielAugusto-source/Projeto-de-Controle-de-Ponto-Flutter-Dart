@@ -1,6 +1,6 @@
 # Sistema Multiplataforma de Controle de Ponto e Horas de Ordem de Serviço (OS) 
 
-> > **Nota:** Este repositório apresenta a documentação técnica e a arquitetura do projeto. Por confidencialidade código fonte não público
+> **Nota:** Este repositório apresenta a documentação técnica e a arquitetura do projeto. Por confidencialidade código fonte não público
 
 ---
 
