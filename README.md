@@ -26,6 +26,7 @@ O sistema foi projetado para eliminar apontamentos manuais em papel, garantir ra
 
 ```text
 +-----------------------------------+
+
 |   App Flutter (Android / Windows) |
 |  - Autenticacao & Sessao Local    |
 |  - Apontamento de Ponto + OS      |
@@ -35,6 +36,7 @@ O sistema foi projetado para eliminar apontamentos manuais em papel, garantir ra
                   | HTTPS POST (JSON + Token de Seguranca)
                   v
 +-----------------------------------+
+
 |   Google Apps Script (Web App)    |
 |  - Validacao de Token             |
 |  - Parse e Tratamento de Linhas   |
@@ -44,8 +46,20 @@ O sistema foi projetado para eliminar apontamentos manuais em papel, garantir ra
                   | SpreadsheetApp / DriveApp
                   v
 +-----------------------------------+
+
 |   Google Drive (/Relatorios_OS)   |
 |  - Criacao automatica de planilha |
 |  - Append sequencial de registros |
 |  - Exportacao nativa para .xlsx   |
 +-----------------------------------+
+```
+
+---
+
+## Telas do Sistema
+
+### Registros
+<img width="1919" height="983" alt="Registro" src="https://github.com/user-attachments/assets/656e773f-04c7-45ec-afaf-7fa6ec0cfd97" />
+
+### MainScreen
+<img width="1919" height="986" alt="MainScreen" src="https://github.com/user-attachments/assets/b763f81e-d28d-47d6-9b5a-33078a3a98c7" />
